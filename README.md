@@ -7,9 +7,8 @@ An automated, hardware-verified single-axis solar tracker designed to maximize t
 ---
 
 ## 📺 Project Demonstration
-![Project Demo Placeholder](https://via.placeholder.com/800x450.png?text=Drag+and+Drop+Your+Project+Video+or+GIF+Here)
+https://github.com/user-attachments/assets/b3e322e2-a176-4766-a509-6938ed9fc58d
 
-*Drop your demo video or an animated GIF here to instantly showcase the hardware in action!*
 
 ---
 
@@ -34,6 +33,3 @@ An automated, hardware-verified single-axis solar tracker designed to maximize t
 ## 📊 System Architecture & Control Logic
 
 The system operates on a differential voltage comparison logic. The two LDRs form separate voltage dividers connected to the microcontroller's analog input pins. The central vertical barrier creates a shadow over one LDR if the light source moves, creating a voltage delta.
-
-https://github.com/user-attachments/assets/b3e322e2-a176-4766-a509-6938ed9fc58d
-
